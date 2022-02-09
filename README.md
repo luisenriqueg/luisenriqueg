@@ -54,7 +54,7 @@ https://github.com/octopus-coder/TelegramBot
 
 <details>
 <summary>Blog post about Genetic Algorithms with C++ </summary>
-https://luisgocas.github.io/blog/journal/genetic-algorithms.html
+https://luisenriqueg.github.io/blog/journal/genetic-algorithms.html
  </details>
 
 <!---
