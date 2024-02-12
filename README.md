@@ -1,6 +1,6 @@
 # Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Luis Enrique. I am an engineer based in San Francisco 🇺🇸🇷
+My name is Luis Enrique. I am an engineer based in San Francisco 🇺🇸
 
 I’m interested in building high quality code, leveraging my React, Typescript, NodeJS, PHP skills to craft beautiful fullstack experiences. 🏆     
  
